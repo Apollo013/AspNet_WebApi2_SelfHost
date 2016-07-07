@@ -1,0 +1,15 @@
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\bin\Debug\OWINSelfHost.Client.exe.config
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\bin\Debug\OWINSelfHost.Client.exe
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\bin\Debug\OWINSelfHost.Client.pdb
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\bin\Debug\OWINSelfHost.Models.dll
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\bin\Debug\OWINSelfHost.Models.pdb
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\obj\Debug\OWINSelfHost.Client.csprojResolveAssemblyReference.cache
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\obj\Debug\OWINSelfHost.Client.exe
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Client\obj\Debug\OWINSelfHost.Client.pdb
+C:\Apps\Published\OWIN_Self_Host\OWINSelfHost.Client\bin\Debug\OWINSelfHost.Client.exe.config
+C:\Apps\Published\OWIN_Self_Host\OWINSelfHost.Client\obj\Debug\OWINSelfHost.Client.exe
+C:\Apps\Published\OWIN_Self_Host\OWINSelfHost.Client\obj\Debug\OWINSelfHost.Client.pdb

@@ -1,0 +1,4 @@
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Models\bin\Debug\OWINSelfHost.Models.dll
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Models\bin\Debug\OWINSelfHost.Models.pdb
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Models\obj\Debug\OWINSelfHost.Models.dll
+C:\Apps\Published\OWINSelfHost\OWINSelfHost.Models\obj\Debug\OWINSelfHost.Models.pdb
