@@ -1,6 +1,8 @@
-# WebApi2_OwinSelfHost
+# AspNet_WebApi2_SelfHost
 A dual console solution that demonstrates basic CRUD operations in a self hosted OWIN app.
 
+---
+Developed using Visual Studio Community 2015
 ---
 
 To run just open the solution and press ctrl + f5. Two console windows will open, one for the server and one for the client.
